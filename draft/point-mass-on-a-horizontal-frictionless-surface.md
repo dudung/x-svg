@@ -2,6 +2,10 @@
 motion of a point mass on a horizontal frictionless surface
 
 $$
+\enclose{circle}{\enclose{box}{x}}
+$$
+
+$$
 \begin{array}{ccccccccc}   
 0 & \xrightarrow{i} & A & \xrightarrow{f} & B & \xrightarrow{q} & C & \xrightarrow{d} & 0\\\
 \downarrow & \searrow & \downarrow & \nearrow & \downarrow & \searrow & \downarrow & \nearrow & \downarrow\\\  

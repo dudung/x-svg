@@ -7,3 +7,7 @@ motion of a point mass on a horizontal frictionless surface
   <rect x="50" y="20" width="150" height="150"
   style="fill:blue;stroke:pink;stroke-width:5;fill-opacity:0.1;stroke-opacity:0.9" />
 </svg>
+
+$$
+ax^2 + bx + c
+$$

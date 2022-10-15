@@ -11,10 +11,18 @@ label below all "Fig 1"
 ```
 
 $$\tag{1}
-w = mg.
+v_x(0) = v_{0x}.
 $$
 
 $$\tag{2}
+v_y(0) = 0.
+$$
+
+$$\tag{3}
+w = mg.
+$$
+
+$$\tag{4}
 \begin{array}{rcl}
 \sum F_y & = & 0 \newline
 N - w & = & 0 \newline
@@ -22,7 +30,7 @@ N & = & w.
 \end{array}
 $$
 
-$$\tag{3}
+$$\tag{5}
 \begin{array}{rcl}
 \sum F_x & = & ma_x \newline
 0 & = & ma_x \newline
@@ -30,16 +38,10 @@ a_x & = & 0.
 \end{array}
 $$
 
-$$\tag{4}
-\begin{array}{rcl}
-v_x & = & v_{0,x}. \newline
-x & = & x_0 + v_{0x} t. \newline
-\end{array}
+$$\tag{6}
+x = x_0 + v_{0x} t.
 $$
 
-$$\tag{5}
-\begin{array}{rcl}
-v_y & = & 0. \newline
-y & = & y_0. \newline
-\end{array}
+$$\tag{7}
+y = y_0.
 $$

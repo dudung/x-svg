@@ -30,6 +30,7 @@ $\sum F_y = 0$
 Kinematics
 :-:
 $\displaystyle v_i(t) - v_i(0) = \int_0^t a_i(t) \ dt, \ \ i = x, y$
+$\displaystyle r_i(t) - r_i(0) = \int_0^t v_i(t) \ dt, \ \ i = x, y$
 
 $$\tag{1}
 w = mg.

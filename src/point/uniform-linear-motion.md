@@ -9,3 +9,23 @@ mass box pos on floor label in "$m$"
 velocity arrow right pos above mass label below "$v$"
 label below all "Fig 1"
 ```
+
+$$\tag{1}
+w = mg.
+$$
+
+$$\tag{2}
+\begin{array}{rcl}
+\sum F_y & = & 0 \newline
+N - w & = & 0 \newline
+N & = & w.
+\end{array}
+$$
+
+$$\tag{3}
+\begin{array}{rcl}
+\sum F_x & = & ma_x \newline
+0 & = & ma_x \newline
+a_x & = & 0.
+\end{array}
+$$

@@ -29,3 +29,17 @@ $$\tag{3}
 a_x & = & 0.
 \end{array}
 $$
+
+$$\tag{4}
+\begin{array}{rcl}
+v_x & = & v_{0,x}. \newline
+x & = & x_0 + v_{0x} t. \newline
+\end{array}
+$$
+
+$$\tag{5}
+\begin{array}{rcl}
+v_y & = & 0. \newline
+y & = & y_0. \newline
+\end{array}
+$$

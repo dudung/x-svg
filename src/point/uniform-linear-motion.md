@@ -37,7 +37,7 @@ $$
 $$\tag{6}
 \begin{array}{rcl}
 \sum F_x & = & ma_x \newline
-f_k & = & ma_x \newline
+-f_k & = & ma_x \newline
 0 & = & ma_x \newline
 a_x & = & 0.
 \end{array}

@@ -1,0 +1,7 @@
+# point mass on a horizontal frictionless surface
+motion of a point mass on a horizontal frictionless surface
+
+<svg width="400" height="180">
+  <rect x="50" y="20" width="150" height="150"
+  style="fill:blue;stroke:pink;stroke-width:5;fill-opacity:0.1;stroke-opacity:0.9" />
+</svg>

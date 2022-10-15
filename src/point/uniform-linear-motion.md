@@ -10,6 +10,24 @@ velocity arrow right pos above mass label below "$v$"
 label below all "Fig 1"
 ```
 
+Eqn
+:-:
+$w = mg$
+$f_k = \mu_k N$
+
+
+IC
+:-:
+$v_x(0) = v_{0x}$
+$v_x(0) = v_{0x}$
+$x(0) = x_0$
+$y(0) = y_0$
+
+Newton's laws
+:-:
+$\sum F_x = ma_x$
+$\sum F_y = 0$
+
 $$\tag{1}
 w = mg.
 $$

@@ -1,4 +1,12 @@
 # uniform linear motion
+```json
+{
+  "xaxis": {"arrow": "right", "label": "$x$"},
+  "yaxis": {"arrow": "up", "label": "$y$"},
+  "zaxis": {"arrow": "out", "label": "$z$"}
+}
+```
+
 
 ```
 xaxis arrow right label $x$

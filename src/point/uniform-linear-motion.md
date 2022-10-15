@@ -15,7 +15,6 @@ Eqn
 $w = mg$
 $f_k = \mu_k N$
 
-
 IC
 :-:
 $v_x(0) = v_{0x}$
@@ -27,6 +26,10 @@ Newton's laws
 :-:
 $\sum F_x = ma_x$
 $\sum F_y = 0$
+
+Kinematics
+:-:
+$\displaystyle v_i(t) - v_i(0) = \int_0^t a_i(t) \ dt, \ \ i = x, y$
 
 $$\tag{1}
 w = mg.

@@ -11,3 +11,8 @@ motion of a point mass on a horizontal frictionless surface
 $$
 ax^2 + bx + c
 $$
+
+```mermaid
+flowchart TB
+  A --> B
+```

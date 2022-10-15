@@ -3,9 +3,8 @@ motion of a point mass on a horizontal frictionless surface
 
 ![](rect.svg)
 
-<svg width="400" height="180">
-  <rect x="50" y="20" width="150" height="150"
-  style="fill:blue;stroke:pink;stroke-width:5;fill-opacity:0.1;stroke-opacity:0.9" />
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <circle id="circle--red" cx="30" cy="30" r="30" fill="#f00"/>
 </svg>
 
 $$
